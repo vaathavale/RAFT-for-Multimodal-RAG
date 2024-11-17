@@ -1,1 +1,1 @@
- Multimodal Retrieval Automated Finetuning
+ Multimodal Retrieval Augmented Finetuning
