@@ -9,5 +9,5 @@ The src folder contains:
 
 The data folder contains:
 - The data used for the retriever
-- The data generated from the RAFT (https://github.com/ShishirPatil/gorilla/tree/main/raft) recipe to finetune OPT1. <br>
+- The data generated from the RAFT (https://github.com/ShishirPatil/gorilla/tree/main/raft) recipe to finetune OPT1.3B <br>
   The data itself is from https://github.com/allenai/multimodalqa
